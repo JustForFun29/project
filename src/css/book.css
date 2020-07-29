@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(240, 236, 204);
+}
+
+.heading {
+    text-align: center;
+    color: rgb(196, 15, 15);
+    font-size: 15px;
+}
+
+.book {
+    font-style: italic;
+}
+
+p {
+    font-size: 12px;
+}
+
+.message {
+    text-transform: uppercase;
+}
